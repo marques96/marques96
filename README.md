@@ -1,4 +1,4 @@
-## Hello 👋, how are you? I'm a web development student👨🏽‍💻 focusing on HTML5, CSS3, JavaScript(ECS6), Node.js and React
+## Hello 👋, how are you? I'm a web development student👨🏽‍💻 focusing on HTML5, CSS3, JavaScript(ECS6), Node.js and React.js
 
 <div>
   <a href="https://https://github.com/marques96">
