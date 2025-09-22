@@ -19,7 +19,6 @@
   <img align="center" alt="Marques96-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Marques96-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Marques96-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Marques96-Ubuntu" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png"/>
           
                    
 </div>
