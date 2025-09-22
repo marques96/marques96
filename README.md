@@ -26,7 +26,7 @@
                    
 </div>
 
-![snake gif](https://raw.github.com/marques96/marques96/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.github.com/marques96/marques96/output/github-contribution-grid-snake.gif)
 <!--
 **marques96/marques96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
