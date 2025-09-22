@@ -20,6 +20,8 @@
   <img align="center" alt="Marques96-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Marques96-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Marques96-Ubuntu" height="30" width="40" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
+  <img align="center" alt="Marques96-Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Marques96-Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
           
                    
 </div>
